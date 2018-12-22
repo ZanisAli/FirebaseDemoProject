@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirebaseDemoProject</string>
+    <string name="title_activity_control">Control</string>
 </resources>
